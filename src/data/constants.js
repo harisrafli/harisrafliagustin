@@ -2,7 +2,7 @@ export const Bio = {
   name: "Haris Rafli Agustin",
   roles: [
     "Fresh Graduate",
-    "Junior Web Developer",
+    "Jr Web Developer",
   ],
   description:
     "Saya adalah Fresh Graduate Universitas Bina Sarana Informatika, Prodi Sistem Informasi D3.",

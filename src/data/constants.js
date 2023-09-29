@@ -6,7 +6,7 @@ export const Bio = {
   ],
   description:
     "Saya adalah Fresh Graduate Universitas Bina Sarana Informatika, Prodi Sistem Informasi D3.",
-  github: "https://github.com/rishavchanda",
+  github: "https://github.com/harisrafli",
   resume:
     "https://drive.google.com/file/d/12jRp5-YKlXEo9FBalQFKAmwkOmSCL_2E/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/harisrafliagustin/",

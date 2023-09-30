@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Design by Rishav Chanda.
+          &copy; Design by Rishav Chanda.2023
         </Copyright>
 
       </FooterWrapper>

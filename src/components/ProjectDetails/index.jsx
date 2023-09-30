@@ -214,6 +214,9 @@ const index = ({ openModal, setOpenModal }) => {
                                     <Member>
                                         <MemberImage src={member.img} />
                                         <MemberName>{member.name}</MemberName>
+                                        <a href={member.github} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
+                                            <GitHub />
+                                        </a>
                                         <a href={member.linkedin} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
                                             <LinkedIn />
                                         </a>
@@ -222,9 +225,6 @@ const index = ({ openModal, setOpenModal }) => {
                             </Members>
                         </>
                     )}
-                    <ButtonGroup>
-                        <Button href={project?.webapp} target='new'>View Live App</Button>
-                    </ButtonGroup>
                 </Wrapper>
             </Container>
 

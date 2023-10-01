@@ -170,7 +170,7 @@ export const projects = [
   },
 ];
 
-export const contact = [
+export const Contact = [
 ];
 
 export const TimeLineData = [

@@ -76,6 +76,7 @@ const ContactTitle = styled.div`
 `
 
 const ContactInput = styled.input`
+  cursor: pointer;  
   flex: 1;
   background-color: transparent;
   border: 1px solid ${({ theme }) => theme.text_secondary};

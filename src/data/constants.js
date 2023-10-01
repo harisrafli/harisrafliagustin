@@ -170,8 +170,7 @@ export const projects = [
   },
 ];
 
-export const Contact = [
-];
+export default Contact
 
 export const TimeLineData = [
   { year: 2016, text: "Started my journey" },

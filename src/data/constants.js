@@ -2,7 +2,7 @@ export const Bio = {
   name: "Haris Rafli Agustin",
   roles: [
     "Fresh Graduate",
-    "Jr Web Developer",
+    "Job Seeker",
   ],
   description:
     "Saya adalah Fresh Graduate Universitas Bina Sarana Informatika, Prodi Sistem Informasi D3.",
@@ -111,7 +111,7 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 1,
+    id: 0,
     img: "https://www.tagar.id/Asset/uploads/172459-badan-narkotika-nasional.jpeg",
     role: "Staff",
     company: "Badan Narkotika Nasional Jakarta Timur",
@@ -140,7 +140,7 @@ export const education = [
     id: 1,
     img: "https://smkmalaka.sch.id/wp-content/uploads/2011/07/logo-smk.jpg",
     school: "SMK Malaka",
-    date: "Jan 2016 - Jan 2019",
+    date: "2016 - 2019",
     grade: "Not known",
     desc: "I am a graduate of Malaka Vocational School majoring in Computer Network Engineering.",
     degree: "(XII), Computer Network Engineering.",
@@ -153,13 +153,13 @@ export const projects = [
     title: "Point Of Sales",
     date: "Mei 2022 - Jul 2022",
     description:
-      "Produk point of sales yang standart nantinya dapat digunakan oleh perusahaan untuk di gunakan sebagai alat bantu penjualan barang IT.",
+      "Produk point of sales standart yang dapat digunakan oleh perusahaan untuk di gunakan sebagai alat bantu penjualan barang.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/POS.jpg?alt=media&token=74b0d579-0829-4b4f-962b-d506ebdc0385&_gl=1*rvldzs*_ga*MTYyMzYzMTU5Mi4xNjk1OTAxNDA1*_ga_CW55HF8NVT*MTY5NTkxOTAzNC4yLjEuMTY5NTkxOTQ2OC40OC4wLjA.",
-    tags: ["HTML", "CSS", "Javascript", "Bootstrap", "JQuery", "PHP", "MySQL"],
+    tags: ["HTML", "CSS", "Javascript", "Bootstrap", "JQuery", "Laravel", "PHP", "MySQL"],
     category: "web app",
     webapp: "",
-    member: [
+    owner: [
       {
         name: "Haris Rafli Agustin",
         img: "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/HeroImage.jpg?alt=media&token=f913d3f2-d772-4387-8345-dc2caaedc880&_gl=1*nxqqt9*_ga*MTYyMzYzMTU5Mi4xNjk1OTAxNDA1*_ga_CW55HF8NVT*MTY5NTkxOTAzNC4yLjEuMTY5NTkxOTg5NC4xNS4wLjA.",

@@ -159,7 +159,7 @@ export const projects = [
     tags: ["HTML", "CSS", "Javascript", "Bootstrap", "JQuery", "Laravel", "PHP", "MySQL"],
     category: "web app",
     webapp: "",
-    owner: [
+    members: [
       {
         name: "Haris Rafli Agustin",
         img: "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/HeroImage.jpg?alt=media&token=f913d3f2-d772-4387-8345-dc2caaedc880&_gl=1*nxqqt9*_ga*MTYyMzYzMTU5Mi4xNjk1OTAxNDA1*_ga_CW55HF8NVT*MTY5NTkxOTAzNC4yLjEuMTY5NTkxOTg5NC4xNS4wLjA.",

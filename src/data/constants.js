@@ -133,8 +133,8 @@ export const education = [
     school: "Universitas Bina Sarana Informatika",
     date: "2019 - 2022",
     grade: "3.97 IPK",
-    desc: "Currently I am a Fresh Graduate from Bina Sarana Informatics University. D3 Information Systems Study Program.",
-    degree: "D3, Information Systems.",
+    desc: "Saat ini saya adalah Fresh Graduate dari Universitas Informatika Bina Sarana. Program Studi D3 Sistem Informasi.",
+    degree: "D3, Sistem Informasi",
   },
   {
     id: 1,
@@ -142,8 +142,8 @@ export const education = [
     school: "SMK Malaka",
     date: "2016 - 2019",
     grade: "Not known",
-    desc: "I am a graduate of Malaka Vocational School majoring in Computer Network Engineering.",
-    degree: "(XII), Computer Network Engineering.",
+    desc: "Saya lulusan SMK Malaka jurusan Teknik Komputer & Jaringan (TKJ).",
+    degree: "(XII), Teknik Komputer & Jaringan",
   },
 ];
 

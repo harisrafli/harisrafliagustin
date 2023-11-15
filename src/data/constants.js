@@ -133,7 +133,7 @@ export const education = [
     school: "Universitas Bina Sarana Informatika",
     date: "2019 - 2022",
     grade: "3.97 IPK",
-    desc: "Saat ini saya adalah Fresh Graduate dari Universitas Informatika Bina Sarana. Program Studi D3 Sistem Informasi.",
+    desc: "Saat ini saya adalah Fresh Graduate dari Universitas Bina Sarana Informatika, Program Studi D3 Sistem Informasi.",
     degree: "D3, Sistem Informasi",
   },
   {

@@ -139,7 +139,7 @@ export const education = [
     date: "2016 - 2019",
     grade: "Not known",
     desc: "Saya lulusan SMK Malaka jurusan Teknik Komputer & Jaringan (TKJ).",
-    degree: "(XII), Teknik Komputer & Jaringan",
+    degree: "SMK, Teknik Komputer & Jaringan",
   },
 ];
 

@@ -129,16 +129,16 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://api-frontend.kemdikbud.go.id/v2/detail_pt_logo/MUE4NEE5QUQtNzVGOS00NENELUJFQkEtNUE1RDIzQzdGNjEz",
+    img: "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/DpNiWO7UcAUQKEq.png?alt=media&token=0a409709-ed3e-40a9-90ba-ea2f42cb8749",
     school: "Universitas Bina Sarana Informatika",
-    date: "Sep 2019 - Nov 2022",
+    date: "2019 - 2022",
     grade: "3.97 IPK",
     desc: "Currently I am a Fresh Graduate from Bina Sarana Informatics University. D3 Information Systems Study Program.",
-    degree: "Associate's degree of Information Systems - UBSI.",
+    degree: "D3, Information Systems.",
   },
   {
     id: 1,
-    img: "https://smkmalaka.sch.id/wp-content/uploads/2011/07/logo-smk.jpg",
+    img: "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/images.png?alt=media&token=95167efb-a905-4c17-a170-9b92aeda332b",
     school: "SMK Malaka",
     date: "2016 - 2019",
     grade: "Not known",

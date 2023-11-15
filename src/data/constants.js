@@ -112,7 +112,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/Logo_BNN.svg?alt=media&token=333ed666-ef45-43b8-8a31-ba0654f2fdfc",
+    img: "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/Logo_BNN.jpg?alt=media&token=743d3740-5631-4a73-ab68-ed34912da24a",
     role: "Staff",
     company: "Badan Narkotika Nasional Jakarta Timur",
     date: "January 2018 - April 2018",

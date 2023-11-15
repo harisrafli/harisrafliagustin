@@ -112,7 +112,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://www.tagar.id/Asset/uploads/172459-badan-narkotika-nasional.jpeg",
+    img: "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/Logo_BNN.svg?alt=media&token=333ed666-ef45-43b8-8a31-ba0654f2fdfc",
     role: "Staff",
     company: "Badan Narkotika Nasional Jakarta Timur",
     date: "January 2018 - April 2018",

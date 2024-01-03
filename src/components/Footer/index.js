@@ -98,11 +98,11 @@ function Footer() {
           <NavLink href="#education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
+          {/* <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon> */}
+          {/* <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon> */}
         </SocialMediaIcons>
         <Copyright>
-          &copy; Design by Rishav Chanda. 2023.
+          &copy; 2024. Haris Rafli Agustin
         </Copyright>
 
       </FooterWrapper>

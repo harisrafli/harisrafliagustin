@@ -84,7 +84,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://www.svgrepo.com/show/452210/git.svg",
       },
       {
         name: "GitHub",
@@ -99,7 +99,7 @@ export const skills = [
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://www.svgrepo.com/show/452202/figma.svg",
       },
     ],
   },
@@ -149,7 +149,7 @@ export const projects = [
     title: "Point Of Sales",
     date: "Mei 2022 - Jul 2022",
     description:
-      "Produk point of sales standart yang dapat digunakan oleh perusahaan sebagai alat bantu penjualan barang.",
+      "Produk point of sales standart yang dapat digunakan oleh perusahaan sebagai alat bantu pembelian dan penjualan barang.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/POS.jpg?alt=media&token=74b0d579-0829-4b4f-962b-d506ebdc0385&_gl=1*rvldzs*_ga*MTYyMzYzMTU5Mi4xNjk1OTAxNDA1*_ga_CW55HF8NVT*MTY5NTkxOTAzNC4yLjEuMTY5NTkxOTQ2OC40OC4wLjA.",
     tags: ["HTML", "CSS", "Javascript", "Bootstrap", "JQuery", "Laravel", "PHP", "MySQL"],

@@ -151,7 +151,7 @@ export const projects = [
     description:
       "Produk point of sales standart yang dapat digunakan oleh perusahaan sebagai alat bantu pembelian dan penjualan barang.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/POS.jpg?alt=media&token=74b0d579-0829-4b4f-962b-d506ebdc0385&_gl=1*rvldzs*_ga*MTYyMzYzMTU5Mi4xNjk1OTAxNDA1*_ga_CW55HF8NVT*MTY5NTkxOTAzNC4yLjEuMTY5NTkxOTQ2OC40OC4wLjA.",
+      "https://firebasestorage.googleapis.com/v0/b/certificate-f7040.appspot.com/o/pos.png?alt=media&token=5ec01618-1549-473a-994f-5dff90e8d92f",
     tags: ["HTML", "CSS", "Javascript", "Bootstrap", "JQuery", "Laravel", "PHP", "MySQL"],
     category: "web app",
   },

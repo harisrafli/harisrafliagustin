@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/harisrafliagustin/static/css/main.bf538fe7.css",
+    "main.js": "/harisrafliagustin/static/js/main.ffacb55f.js",
+    "static/media/HeroImage.jpg": "/harisrafliagustin/static/media/HeroImage.7a134338a9a8012dfc6e.jpg",
+    "index.html": "/harisrafliagustin/index.html",
+    "main.bf538fe7.css.map": "/harisrafliagustin/static/css/main.bf538fe7.css.map",
+    "main.ffacb55f.js.map": "/harisrafliagustin/static/js/main.ffacb55f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.ffacb55f.js"
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "name": "haris-rafli-portfolio",
+  "name": "harisrafliagustin",
   "version": "0.1.0",
-  "homepage": "https://harisrafli.github.io",
+  "homepage": "https://github.com/harisrafli/harisrafliagustin",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

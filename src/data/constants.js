@@ -8,7 +8,7 @@ export const Bio = {
     "Saya adalah Fresh Graduate Universitas Bina Sarana Informatika, Prodi Sistem Informasi D3.",
   github: "https://github.com/harisrafli",
   resume:
-    "https://drive.google.com/file/d/18Yd-t-SWVFhk5qHx2DFg2JLCq674n6_P/view?usp=sharing",
+    "https://drive.google.com/file/d/18Yd-t-SWVFhk5qHx2DFg2JLCq674n6_P/view?usp=drive_link",
 };
 
 export const skills = [
